@@ -16,7 +16,7 @@ Este portfólio foi meticulosamente projetado para proporcionar uma experiência
 
 ## Visualize o Projeto
 
-Confira o meu projeto portfólio online aqui: [Link para o Portfólio](https://seu-usuario.github.io/nome-do-repositorio/)
+Confira o meu projeto portfólio online aqui: [Link para o Portfólio](https://alenkdev.github.io/proj-portfolio/)
 
 
 ## Tecnologias Utilizadas
